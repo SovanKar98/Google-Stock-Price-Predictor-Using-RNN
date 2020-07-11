@@ -5,4 +5,4 @@
 </br>
 
 
-> The dataset contains the real stock prices of Google for a span of 5 years.
+The dataset contains the real stock prices of Google for a span of 5 years.
