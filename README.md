@@ -1,7 +1,7 @@
-# Google-Stock-Price-Predictor-Using-RNN
+# Stock-Price-Predictor-Using-RNN
 
 
-> A Recurrent Neural Network model trained to predict Google Stock prices based on the trends of the last 60 days.</br>
+> A Recurrent Neural Network model trained to predict Stock prices based on the trends of the last 60 days.</br>
 </br>
 
 
